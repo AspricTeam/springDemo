@@ -15,7 +15,7 @@ public class HelloController {
     }
     @RequestMapping("/hello1")
     public String hello1(){
-        return "/img/1.jpg";
+        return "/img/2.jpg";
     }
     @RequestMapping("/getPage")
     public String getPage(){
